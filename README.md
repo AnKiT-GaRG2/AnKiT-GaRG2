@@ -27,5 +27,5 @@
 <div align=center>
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AnKiT-GaRG2&theme=dark&layout=compact" alt="AnKiT-GaRG2" /> </div>
 
-
-<img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
+<div align=right>
+<img  alt="coding" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"></div>
