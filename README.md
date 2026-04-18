@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -110,7 +110,7 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </a>
 
-</div>
+</p>
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
