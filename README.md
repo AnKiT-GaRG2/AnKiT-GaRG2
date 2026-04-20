@@ -29,7 +29,6 @@
 
 ```yaml
 name:        "Ankit Garg"
-location:    "Patna, India 🇮🇳"
 role:        "Software Developer"
 focus:
   - "Machine Learning & Deep Learning"
@@ -38,7 +37,7 @@ currently:   "Building with React Native 📱"
 learning:    ["Mobile Dev", "System Design", "Cloud"]
 ask_me_about: "ML, DL, and anything Python-flavored"
 reach_me:    "anki88520@gmail.com"
-fun_fact:    "I debug with chai and console.log ☕"
+fun_fact:    "I debug with coffee and console.log ☕"
 ```
 
 <br clear="right"/>
