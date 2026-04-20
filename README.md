@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ankit-garg2&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-garg2" /> 
 </p>
 
-- 🌱 I’m currently learning **React.js and Flutter**  
+- 🌱 I’m currently learning **React Native**  
 - 💬 Ask me about **Machine Learning and Deep Learning..**  
 - 📫 How to reach me **anki88520@gmail.com**
 
