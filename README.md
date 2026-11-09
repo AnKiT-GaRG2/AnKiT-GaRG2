@@ -64,6 +64,24 @@ fun_fact:    "I debug with coffee and console.log ☕"
 
 ---
 
+<!-- ─────────────────────── OPEN SOURCE ─────────────────────── -->
+## 🌐 &nbsp; Open Source Contributions
+
+Merged pull requests in CNCF, NumFOCUS and Kubernetes SIGs projects:
+
+| Project | Merged contribution |
+|---------|---------------------|
+| [PyTensor](https://github.com/pymc-devs/pytensor) (PyMC / NumFOCUS) | [#2473](https://github.com/pymc-devs/pytensor/pull/2473) fix the AdvancedSubtensor constant-index bounds check in the C backend · [#2483](https://github.com/pymc-devs/pytensor/pull/2483) speed up variadic Elemwise Cast/Add/Mul in Python mode · [#2487](https://github.com/pymc-devs/pytensor/pull/2487) rewrite reductions over useless DimShuffles |
+| [Perses plugins](https://github.com/perses/plugins) (CNCF) | [#870](https://github.com/perses/plugins/pull/870) Jaeger plugin: use the Jaeger API v3 to support Jaeger 2.21+ |
+| [Perses](https://github.com/perses/perses) (CNCF) | [#4633](https://github.com/perses/perses/pull/4633) `percli plugin generate`: run `go mod init`/`tidy` instead of templating |
+| [Jaeger](https://github.com/jaegertracing/jaeger) (CNCF) | [#9829](https://github.com/jaegertracing/jaeger/pull/9829) remove the unused `safeexpvar` package |
+| [inference-perf](https://github.com/kubernetes-sigs/inference-perf) (Kubernetes SIGs) | [#1007](https://github.com/kubernetes-sigs/inference-perf/pull/1007) fix exact-length prompt generation oscillating when tokens merge · [#932](https://github.com/kubernetes-sigs/inference-perf/pull/932) send every planned request of a stage when `num_workers = 0` |
+| [Harbor](https://github.com/goharbor/website) (CNCF) | [#776](https://github.com/goharbor/website/pull/776) document the jobservice and notification settings in `harbor.yml` |
+
+Full list: [my merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AAnKiT-GaRG2+is%3Amerged).
+
+---
+
 <!-- ─────────────────────── TECH STACK ─────────────────────── -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Tech Arsenal
 
